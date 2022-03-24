@@ -7,6 +7,7 @@
 - Automation Ability (Create Mod)
 - Ability to hop fences (Jump Over Fences Mod)
 - Block Searchability (Just Enough Items Mod)
+- Item origin references (Just Enough Resources)
 - Better monster AI (AI Improvements Mod)
 - Add more neutral mobs (Alex's Mobs Mod)
 - Better biomes (Biomes O'plenty Mod)
