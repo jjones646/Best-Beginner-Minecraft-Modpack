@@ -15,6 +15,7 @@
 - Respawn niceness, backpack, etc. (Quark Oddities Mod)
 - Easier item movements (Mousetweaks Mods)
 - Less lag (Clumps Mod)
+- Faster leaf decay (Fast Leaf Decay Mod)
 
 
 ### Wants
